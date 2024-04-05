@@ -59,7 +59,7 @@ const AurEggoCopy = () => {
                     <div className='flex flex-col justify-end col-span-1'>
                         <div className='flex flex-col order-2 mb-10 md:mb-0 xl:order-1'>
                             <h2 className='font-normal font-Victory text-[11px] sm:text-[26px] lg:text-5xl 2xl:text-[85px] text-black mt-[5px] leading-[100%] text-center'>aureggo</h2>
-                            <p className='pb-2 mt-2 text-[8px] font-semibold sm:mt-3 md:mt-4 sm:text-base black md:text-lg font-Montserrat'>Introducing Aureggo: <span className='font-normal '>The Epic Saga of the Crypto World’s Golden Layer! Here, legend has it, lies a project unlike any other, where Aureggo’s very own digital chicken is set to outcluck the rest by laying golden eggs. Dive into the heart of  meme magic with Aureggo, where every token is a piece of the golden puzzle, ready to hatch a new era of crypto prosperity</span></p>
+                            <p className='pb-2 mt-2 text-[8px] font-semibold sm:mt-3 md:mt-4 sm:text-xs black 2xl:text-lg font-Montserrat'>Introducing Aureggo: <span className='font-normal '>The Epic Saga of the Crypto World’s Golden Layer! Here, legend has it, lies a project unlike any other, where Aureggo’s very own digital chicken is set to outcluck the rest by laying golden eggs. Dive into the heart of  meme magic with Aureggo, where every token is a piece of the golden puzzle, ready to hatch a new era of crypto prosperity</span></p>
                         </div>
                         <img className='absolute right-0 sm:right-20 lg:right-28 order-1 xl:order-2 mx-auto -top-6 sm:-top-10 w-[36.50%] lg:w-[28%] 2xl:w-[40%] mt-4 md:mt-5 xl:mt-0' src={aureggo} alt="aureeggo" />
                     </div>
